@@ -32,8 +32,11 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   &nbsp;
   ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  &nbsp;
+  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 <h2>Some of my projects</h2>
 <a href="https://github.com/MMalpassi/GameFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=GameFinder&theme=great-gatsby"/></a>
+<a href="https://github.com/MMalpassi/Memento"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=Memento&theme=great-gatsby"/></a>
 <a href="https://github.com/MMalpassi/ChopURL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=ChopURL&theme=great-gatsby"/></a>
