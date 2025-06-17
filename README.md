@@ -7,7 +7,7 @@
 
 <h2>About Me</h2>
 <p>
-  👨🏻‍💻 I'm 23 years and I'm from Argentina.<br>
+  👨🏻‍💻 I'm 23 years old and I'm from Argentina.<br>
   📚 I'm currently studying <strong>Computer Science</strong> at <a href="https://www.famaf.unc.edu.ar/">FaMAF - UNC</strong></a>.<br>
   💡 I like to explore new technologies and develop software solutions.<br>
   📲 Reach me via email at <a href="mailto:tutemalpassi1@gmail.com"><strong>tutemalpassi1@gmail.com</strong></a>.<br>
