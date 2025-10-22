@@ -39,5 +39,5 @@
 <h2>Some of my projects</h2>
 <a href="https://github.com/MMalpassi/GameFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=GameFinder&theme=great-gatsby"/></a>
 <a href="https://github.com/MMalpassi/Memento"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=Memento&theme=great-gatsby"/></a>
-<a href="https://github.com/MMalpassi/ChopURL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=ChopURL&theme=great-gatsby"/></a>
+ <a href="https://github.com/MMalpassi/BlogApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=BlogApp&theme=great-gatsby"/></a>
 <a href="https://github.com/MMalpassi/FullStackOpen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=FullStackOpen&theme=great-gatsby"/></a>
