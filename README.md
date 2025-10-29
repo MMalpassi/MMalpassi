@@ -15,15 +15,17 @@
 
 <h2>Tech Stack</h2>
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  &nbsp;
+  ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  &nbsp;
+  ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   &nbsp;
   ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   &nbsp;
   ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   &nbsp;
-  ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  &nbsp;
-  ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   &nbsp;
   ![DJANGO](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
   &nbsp;
@@ -33,11 +35,8 @@
   &nbsp;
   ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   &nbsp;
-  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 <h2>Some of my projects</h2>
 <a href="https://github.com/MMalpassi/BlogApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=BlogApp&theme=great-gatsby"/></a>
 <a href="https://github.com/MMalpassi/FullStackOpen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=FullStackOpen&theme=great-gatsby"/></a>
-<a href="https://github.com/MMalpassi/Memento"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=Memento&theme=great-gatsby"/></a>
-<a href="https://github.com/MMalpassi/GameFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MMalpassi&repo=GameFinder&theme=great-gatsby"/></a>
